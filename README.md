@@ -1,2 +1,2 @@
-# My-VSCode-repo
+# My-VSCode
 github visual studio repo
